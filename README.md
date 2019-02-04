@@ -28,5 +28,5 @@ Unfortunately there are no proper datasets for common sexist remarks at workplac
 Please feel free to push any sort of data or remark you find suitable to this project. I believe that sexism in workplace conversations is a global problem. I hope that this bot will be a step towards eliminating it. Therefore, I need crowdsourced to improve the model and make it more usable.
 
 ## Further Work
-- Logging to catch repeated offendors: The bot will log details of repeated offendors and will send a message to the workspace admin
+- Logging to catch repeated offendors: The bot will log details of repeated offendors and will send a message to the workspace admin. Regular offendors will also be shown and incremantal 'testosterone level' value
 - Audio Analysis: If the data gathered is signficant enough, we can move this to audio/speech reognition of sexist comments. For example this bot could be integerated with existing virtual assistants to give out warnings if a sexist remark is heard in a meeting.
