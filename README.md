@@ -8,6 +8,11 @@ A Sexism Caution Bot is integerable with slack. It can help to find specific sex
 ## Work done
 Only primliarly work of the basic infrastructure is done till now.
 
+## Slack Invite
+
+You can join the slack group to test out the bot and suggest features.
+Click (here)[https://join.slack.com/t/archanaglobal/shared_invite/enQtNTQwODg3NjU3NTM2LWU3MmMyMzA1Nzg5MjQxM2JmMmI4NjQyNDhmZWYxMTgxNDA2NzI3ZTk4OTE4ZDQ5Y2UwZWYzNzVkMzdmNzZmNmY] to join the slack workspace
+
 ## HELP NEEDED!
 Unfortunately there are no proper datasets for common sexist remarks at workplaces. The avaliable datasets that I have come across are extremely vulgar/obscene. However, sexist remarks in workplaces are often subtle or contain some usual phrases like "Girls are like that".
 
@@ -15,4 +20,5 @@ Unfortunately there are no proper datasets for common sexist remarks at workplac
 Please feel free to push any sort of data or remark you find suitable to this project. I believe that sexism in workplace conversations is a global problem. I hope that this bot will be a step towards eliminating it. Therefore, I need crowdsourced to improve the model and make it more usable.
 
 ## Further Work
+- Logging to catch repeated offendors: The bot will log details of repeated offendors and will send a message to the workspace admin
 - Audio Analysis: If the data gathered is signficant enough, we can move this to audio/speech reognition of sexist comments. For example this bot could be integerated with existing virtual assistants to give out warnings if a sexist remark is heard in a meeting.
