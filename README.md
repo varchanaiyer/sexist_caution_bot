@@ -1,17 +1,24 @@
 # sexist_caution_bot
 
+<p align="center">
+<img src="img/bot_img.png" width="500" height="200" />
+</p>
+
+
 ## Sexism at Workplace
 Four in ten women in the United States have faced gender dicrimination at their workplace. Discrimination occurs in several ways like pay gap, lesser representations and unconsicous bias. While global companies are taking women specific recuriment drives in a serious manner, there is still a greater need to control sexist remarks or biases in a workplace. The first step in doing so is regulating messages or conversations in a workplaces.
 
 A Sexism Caution Bot is integerable with slack. It can help to find specific sexist remarks in conversation. For starters it can implemented in the public channels of workplace and serve as a reminder to employees/users who might be potraying an unconsicious sexual bias
 
 ## Work done
-Only primliarly work of the basic infrastructure is done till now.
+- Model trained to detect insults, obscene and toxic comments
+- Added frequently used sexist terms
+- Baisc bot is build. Now need to improve it and add more features
 
 ## Slack Invite
 
 You can join the slack group to test out the bot and suggest features.
-Click (here)[https://join.slack.com/t/archanaglobal/shared_invite/enQtNTQwODg3NjU3NTM2LWU3MmMyMzA1Nzg5MjQxM2JmMmI4NjQyNDhmZWYxMTgxNDA2NzI3ZTk4OTE4ZDQ5Y2UwZWYzNzVkMzdmNzZmNmY] to join the slack workspace
+Click [here](https://join.slack.com/t/archanaglobal/shared_invite/enQtNTQwODg3NjU3NTM2LWU3MmMyMzA1Nzg5MjQxM2JmMmI4NjQyNDhmZWYxMTgxNDA2NzI3ZTk4OTE4ZDQ5Y2UwZWYzNzVkMzdmNzZmNmY) to join the slack workspace
 
 ## HELP NEEDED!
 Unfortunately there are no proper datasets for common sexist remarks at workplaces. The avaliable datasets that I have come across are extremely vulgar/obscene. However, sexist remarks in workplaces are often subtle or contain some usual phrases like "Girls are like that".
