@@ -18,7 +18,8 @@ A Sexism Caution Bot is integerable with slack. It can help to find specific sex
 ## Slack Invite
 
 You can join the slack group to test out the bot and suggest features.
-Click [here](https://join.slack.com/t/archanaglobal/shared_invite/enQtNTQwODg3NjU3NTM2LWU3MmMyMzA1Nzg5MjQxM2JmMmI4NjQyNDhmZWYxMTgxNDA2NzI3ZTk4OTE4ZDQ5Y2UwZWYzNzVkMzdmNzZmNmY) to join the slack workspace
+
+Click [here](https://join.slack.com/t/sexist-caution-bot/shared_invite/enQtNTQyNzE1MzMxODE1LTZiNDJjYWZjZWU1ZDIwOGQ1ZGY3NTE2YWUxY2RlY2NjMGIzMmRjMmFjYmJlNjkwNTc2MTU4ZTVjMjA0NGFkZWM) to join the slack workspace
 
 ## HELP NEEDED!
 Unfortunately there are no proper datasets for common sexist remarks at workplaces. The avaliable datasets that I have come across are extremely vulgar/obscene. However, sexist remarks in workplaces are often subtle or contain some usual phrases like "Girls are like that".
