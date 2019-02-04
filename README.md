@@ -1,7 +1,7 @@
 # sexist_caution_bot
 
 <p align="center">
-<img src="img/bot_img.png" width="500" height="200" />
+<img src="img/bot_img.png" width="550" height="180" />
 </p>
 
 
