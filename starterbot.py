@@ -99,8 +99,8 @@ def check_sexist(message, channel):
     """
     message=message.lower()
     sexist_list=[ "men will be men", "girls are like that",
-            'fuck', 'shit', 'as good as a man', 'like a man', 
-            'for a girl', 'smart for a girl', 'love of a woman', 'sex',
+                 'as good as a man', 'like a man', 
+                'for a girl', 'smart for a girl', 'love of a woman',
             'men are better', 'girls cant do that']
 
     if any(ext in message for ext in sexist_list):
