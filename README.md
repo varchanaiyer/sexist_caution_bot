@@ -1,7 +1,7 @@
 # sexist_caution_bot
 
 <p align="center">
-<img src="img/slack_bot.png" width="700" height="80" />
+<img src="img/slack_bot.png" width="800" height="180" />
 </p>
 
 
