@@ -116,7 +116,7 @@ def handle_command(channel):
     """
     # Default response is help text for the user
     
-    response = "Caution, Testosterone Levels have now reached 125%!"
+    response = "Caution, that was a sexist remark. We do not encourage such remarks in our workspace!"
     
         # Sends the response back to the channel
     slack_client.api_call(
